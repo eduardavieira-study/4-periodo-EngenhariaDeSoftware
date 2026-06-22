@@ -2,7 +2,7 @@
 
 ## Materias do semestre
 - Grafos
-- Introdução Humano Computador
+- Interação Humano-Computador
 - Redes de Computadores
 - Projetos de Software
 - Laboratório de Desenvolvimento de Software
